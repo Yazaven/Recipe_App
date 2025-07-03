@@ -6,7 +6,8 @@
 - 🎥 Recipe Pages Include YouTube Video Tutorials
 - ❤️ Add Recipes to Favorites and Access Them from Favorites Tab
 - ⚡ Tech Stack: React Native + Express + PostgreSQL + Expo
-![Alt text](mobile/assets/images/IMG_0999.jpeg)
+<img src="mobile/assets/images/IMG_0999.jpeg" alt="Logo" width="200"/>
+
 ---
 
 ## 🧪 .env Setup
