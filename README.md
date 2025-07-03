@@ -7,6 +7,7 @@
 - ❤️ Add Recipes to Favorites and Access Them from Favorites Tab
 - ⚡ Tech Stack: React Native + Express + PostgreSQL + Expo
 <img src="mobile/assets/images/IMG_0999.jpeg" alt="Logo" width="200"/>
+<img src="mobile/assets/images/IMG_1002.jpeg" alt="Logo" width="200"/>
 
 ---
 
